@@ -4,7 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="profile" href="http://gmpg.org/xfn/11">
+<!--
 <link rel="pingback" href="xmlrpc.php">
+-->
 <link rel="shortcut icon" href=""/>
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.4 - http://yoast.com/wordpress/seo/ -->
 <title>Aeromart Korea 2014</title>
@@ -19,8 +21,11 @@
 <meta property="og:site_name" content="Aeromart Korea 2014" />
 <meta property="og:image" content="http://www.bciaerospace.com/korea/wp-content/uploads/2014/02/Biz-Meeting-Sacheon-Expo_2013-2-300x199.jpg" />
 <!-- / Yoast WordPress SEO plugin. -->
+<!--
 <link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux" href="http://www.bciaerospace.com/korea/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux des commentaires" href="http://www.bciaerospace.com/korea/comments/feed/" />
+-->
+<!--
             <script type="text/javascript">//<![CDATA[
             // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
@@ -35,6 +40,7 @@
                 s.parentNode.insertBefore(ga, s);
             })();
             //]]></script>
+-->
 			<link rel='stylesheet' id='rootstrap-style-css'  href='wp-content/themes/wp-rootstrap/style.css?ver=3.8.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='rootstrap-bootstrap-css'  href='wp-content/themes/wp-rootstrap/includes/resources/bootstrap/css/bootstrap.min.css?ver=3.8.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='rootstrap-glyphicons-css'  href='wp-content/themes/wp-rootstrap/includes/resources/glyphicons/css/bootstrap-glyphicons.css?ver=3.8.3.css' type='text/css' media='all' />
@@ -42,9 +48,11 @@
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1.javascript'></script>
 <script type='text/javascript' src='wp-content/themes/wp-rootstrap/includes/resources/bootstrap/js/bootstrap.min.js?ver=3.8.3.javascript'></script>
 <script type='text/javascript' src='wp-content/themes/wp-rootstrap/includes/js/bootstrap-wp.js?ver=3.8.3.javascript'></script>
+<!--
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php_rsd.xml" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 3.8.3" />
+-->
 <link rel='shortlink' href='index.html_p=2.html' />
 <!-- <meta name="vfb" version="2.8" /> -->
 <style type="text/css" id="custom-background-css">
