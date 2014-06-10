@@ -1,101 +1,17 @@
 <!DOCTYPE html>
-<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<html lang="ko-KR" prefix="og: http://ogp.me/ns#">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<!--
-<link rel="pingback" href="xmlrpc.php">
--->
-<link rel="shortcut icon" href=""/>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.4 - http://yoast.com/wordpress/seo/ -->
-<title>Aeromart Korea 2014</title>
-<meta name="description" content="The only one of its kind in Korea, Aeromart Korea 2014 - an International Business Convention for the Aerospace and defense Industry in Korea."/>
-<meta name="keywords" content="Aeromart Korea 2014, abe, one-to-one meetings, investment &amp; development in Korea, Aeronautics and defense, abe, advanced business events,"/>
-<link rel="canonical" href="index.php" />
-<meta property="og:locale" content="fr_FR" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Aeromart Korea 2014" />
-<meta property="og:description" content="The only one of its kind in Korea, Aeromart Korea 2014 - an International Business Convention for the Aerospace and defense Industry in Korea." />
-<meta property="og:url" content="http://www.bciaerospace.com/korea/" />
-<meta property="og:site_name" content="Aeromart Korea 2014" />
-<meta property="og:image" content="http://www.bciaerospace.com/korea/wp-content/uploads/2014/02/Biz-Meeting-Sacheon-Expo_2013-2-300x199.jpg" />
-<!-- / Yoast WordPress SEO plugin. -->
-<!--
-<link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux" href="http://www.bciaerospace.com/korea/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux des commentaires" href="http://www.bciaerospace.com/korea/comments/feed/" />
--->
-<!--
-            <script type="text/javascript">//<![CDATA[
-            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-12709362-18']);
-				            _gaq.push(['_trackPageview']);
-            (function () {
-                var ga = document.createElement('script');
-                ga.type = 'text/javascript';
-                ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(ga, s);
-            })();
-            //]]></script>
--->
-			<link rel='stylesheet' id='rootstrap-style-css'  href='wp-content/themes/wp-rootstrap/style.css?ver=3.8.3.css' type='text/css' media='all' />
-<link rel='stylesheet' id='rootstrap-bootstrap-css'  href='wp-content/themes/wp-rootstrap/includes/resources/bootstrap/css/bootstrap.min.css?ver=3.8.3.css' type='text/css' media='all' />
-<link rel='stylesheet' id='rootstrap-glyphicons-css'  href='wp-content/themes/wp-rootstrap/includes/resources/glyphicons/css/bootstrap-glyphicons.css?ver=3.8.3.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.10.2.javascript'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1.javascript'></script>
-<script type='text/javascript' src='wp-content/themes/wp-rootstrap/includes/resources/bootstrap/js/bootstrap.min.js?ver=3.8.3.javascript'></script>
-<script type='text/javascript' src='wp-content/themes/wp-rootstrap/includes/js/bootstrap-wp.js?ver=3.8.3.javascript'></script>
-<!--
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php_rsd.xml" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 3.8.3" />
--->
-<link rel='shortlink' href='index.php' />
-<!-- <meta name="vfb" version="2.8" /> -->
-<style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #ffffff; }
-</style>
+{%- include:"head.php" %}
 </head>
 <body class="home page page-id-2 page-template page-template-page2-php custom-background">
 		
 	<nav class="navbar navbar-default">		
 	<div class="container">
-		<div class="ext-links"><a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">Home BCI Aerospace</a>  <a href="http://www.bciaerospace.com/korea/sign-up/">Sign Up online</a>  <a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a></div>
+		<div class="ext-links"><a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>  <a href="http://www.bciaerospace.com/korea/sign-up/">Sign Up online</a>  <a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a></div>
 		<div class="row">
 			<div class="site-navigation-inner col-12">
 				<div class="navbar">
-				    <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
-				    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-				      <span class="icon-bar"></span>
-				      <span class="icon-bar"></span>
-				      <span class="icon-bar"></span>
-				    </button>
-				
-				    <!-- Your site title as branding in the menu -->
-				    <a class="navbar-brand" href="index.php" title="Aeromart Korea 2014" rel="home">
-											<img src="wp-content/uploads/2014/04/logo-AeromartKorea-2.png">	
-										</a>
-				    
-				    <!-- The WordPress Menu goes here -->
-				       <div class="nav-collapse collapse navbar-responsive-collapse"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active menu-item-57"><a href="index.php" >Home</a></li>
-<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="?m=sign-up" >Sign Up</a></li>
-<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="?m=sponsorship" >Sponsorship</a></li>
-<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-49 dropdown"><a href="?m=event-format-program"  data-toggle="dropdown" data-target="#" class="dropdown-toggle">Event Format &#038; Program <span class="caret"></span></a>
-<ul class="dropdown-menu">
-	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="?m=event-format-program" >Event Format &#038; Program</a></li>
-	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="?m=event-format-program/concept" >Concept</a></li>
-</ul>
-</li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="?m=korean-aerospace-industry" >Korean Aerospace Industry</a></li>
-<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="?m=partners" >Partners</a></li>
-<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="?m=participants-list" >Participants List</a></li>
-<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="?m=useful-information" >Useful Information</a></li>
-<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="?m=downloads" >Downloads</a></li>
-<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="?m=contact" >Contact</a></li>
-</ul></div>				
+{%- include:"menu.php" %}
 				</div><!-- .navbar -->
 			</div>
 		</div>
@@ -316,18 +232,18 @@ body.custom-background { background-color: #ffffff; }
 </div><!-- close .main-content -->
 <div id="primery-footer">
 	<div class="container">
-	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">More Information</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>
+	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">정보</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>
 <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="?m=contact" >Contact Us</a></li>
-<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="?m=site-map" >Site Map</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="?m=site-map" >사이트맵</a></li>
 </ul></div></aside><aside id="text-6" class="widget widget_text col-3">			<div class="textwidget"><p><br></p>
 <p style="text-align:center;font-weight: 200;"><img src="wp-content/uploads/2014/03/logo-BCI-aerospace.png" width="200" /> an abe division</p>
 <p style="text-align:center;font-weight: 200;font-size: 13px;">
 General Organization AEROMART Korea<br />
 35/37 rue des Abondances - 92513 Boulogne-Billancourt cedex (FRANCE)<br />
 Tel : +33 1 41 86 49 18 - Fax : +33 1 46 03 86 26 - Email : <a href="mailto:adm-korea @advbe.com" target="_blank">adm-korea @advbe.com</a><br />
-abe ? SAS capital 50 000 € - 515 013 506 00024 ? NAF 8230 Z</p>
+abe – SAS capital 50 000 € - 515 013 506 00024 – NAF 8230 Z</p>
 </div>
-		</aside><aside id="search-2" class="widget widget_search col-3"><h3 class="widget-title">Search:</h3><form role="search" method="get" class="search-form" action="http://www.bciaerospace.com/korea/">
+		</aside><aside id="search-2" class="widget widget_search col-3"><h3 class="widget-title">BCI Aerospace 검색:</h3><form role="search" method="get" class="search-form" action="http://www.bciaerospace.com/korea/">
 	<label>
 		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
 	</label>

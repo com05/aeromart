@@ -3,9 +3,9 @@
     include "_fastworks/core.php";
     $__['pathPage'] = "page/";
     
-    $m = $_REQUEST['m'];
-    if ($m == null) {
-        $m = "index";
+    $__['m'] = $_REQUEST['m'];
+    if ($__['m'] == null) {
+        $__['m'] = "index";
     }
-    loadLayout($__['pathPage'].$m.".php");
+    loadLayout($__['pathPage'].$__['m'].".php");
 ?>
