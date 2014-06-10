@@ -12,7 +12,7 @@
 <title>Aeromart Korea 2014</title>
 <meta name="description" content="The only one of its kind in Korea, Aeromart Korea 2014 - an International Business Convention for the Aerospace and defense Industry in Korea."/>
 <meta name="keywords" content="Aeromart Korea 2014, abe, one-to-one meetings, investment &amp; development in Korea, Aeronautics and defense, abe, advanced business events,"/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Aeromart Korea 2014" />
@@ -53,7 +53,7 @@
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 3.8.3" />
 -->
-<link rel='shortlink' href='index.html_p=2.html' />
+<link rel='shortlink' href='index.php' />
 <!-- <meta name="vfb" version="2.8" /> -->
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
@@ -75,26 +75,26 @@ body.custom-background { background-color: #ffffff; }
 				    </button>
 				
 				    <!-- Your site title as branding in the menu -->
-				    <a class="navbar-brand" href="index.html" title="Aeromart Korea 2014" rel="home">
+				    <a class="navbar-brand" href="index.php" title="Aeromart Korea 2014" rel="home">
 											<img src="wp-content/uploads/2014/04/logo-AeromartKorea-2.png">	
 										</a>
 				    
 				    <!-- The WordPress Menu goes here -->
-				       <div class="nav-collapse collapse navbar-responsive-collapse"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active menu-item-57"><a href="index.html" >Home</a></li>
-<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="sign-up/index.html" >Sign Up</a></li>
-<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="sponsorship/index.html" >Sponsorship</a></li>
-<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-49 dropdown"><a href="event-format-program/index.html"  data-toggle="dropdown" data-target="#" class="dropdown-toggle">Event Format &#038; Program <span class="caret"></span></a>
+				       <div class="nav-collapse collapse navbar-responsive-collapse"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active menu-item-57"><a href="index.php" >Home</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="?m=sign-up" >Sign Up</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="?m=sponsorship" >Sponsorship</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-49 dropdown"><a href="?m=event-format-program"  data-toggle="dropdown" data-target="#" class="dropdown-toggle">Event Format &#038; Program <span class="caret"></span></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="event-format-program/index.html" >Event Format &#038; Program</a></li>
-	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="event-format-program/concept/index.html" >Concept</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="?m=event-format-program" >Event Format &#038; Program</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="?m=event-format-program/concept" >Concept</a></li>
 </ul>
 </li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="korean-aerospace-industry/index.html" >Korean Aerospace Industry</a></li>
-<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://www.bciaerospace.com/korea/partners/" >Partners</a></li>
-<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="participants-list/index.html" >Participants List</a></li>
-<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="useful-information/index.html" >Useful Information</a></li>
-<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="downloads/index.html" >Downloads</a></li>
-<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="contact/index.html" >Contact</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="?m=korean-aerospace-industry" >Korean Aerospace Industry</a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="?m=partners" >Partners</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="?m=participants-list" >Participants List</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="?m=useful-information" >Useful Information</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="?m=downloads" >Downloads</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="?m=contact" >Contact</a></li>
 </ul></div>				
 				</div><!-- .navbar -->
 			</div>
@@ -166,12 +166,12 @@ body.custom-background { background-color: #ffffff; }
     <div id="metaslider_container_326">
         <div id="metaslider_326" class="flexslider">
             <ul class="slides">
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/Kai-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-328" /></a></li>
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/KoreanAirlines-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-330" /></a></li>
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/AsianaAirlines-logo1-653x280.jpg" height="300" width="700" class="slider-326 slide-345" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/Kai-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-328" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/KoreanAirlines-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-330" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/AsianaAirlines-logo1-653x280.jpg" height="300" width="700" class="slider-326 slide-345" /></a></li>
                 <li style="display: none;"><img src="wp-content/uploads/2014/04/HundaiWia-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-390" /></li>
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/SamsungThales-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-332" /></a></li>
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/SamsungTechwin-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-331" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/SamsungThales-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-332" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/SamsungTechwin-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-331" /></a></li>
                 <li style="display: none;"><img src="wp-content/uploads/2014/04/LigNex1-logo-653x280.jpg" height="300" width="700" class="slider-326 slide-383" /></li>
             </ul>
         </div>
@@ -207,7 +207,7 @@ body.custom-background { background-color: #ffffff; }
     <div id="metaslider_container_335">
         <div id="metaslider_335" class="flexslider">
             <ul class="slides">
-                <li style="display: none;"><a href="partners/index.html" target="_self"><img src="wp-content/uploads/2014/04/SacheonCity-logo-653x280.jpg" height="300" width="700" class="slider-335 slide-334" /></a></li>
+                <li style="display: none;"><a href="?m=partners" target="_self"><img src="wp-content/uploads/2014/04/SacheonCity-logo-653x280.jpg" height="300" width="700" class="slider-335 slide-334" /></a></li>
             </ul>
         </div>
         
@@ -316,9 +316,9 @@ body.custom-background { background-color: #ffffff; }
 </div><!-- close .main-content -->
 <div id="primery-footer">
 	<div class="container">
-	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">More Information</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="legals/index.html" >Legals</a></li>
-<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="contact/index.html" >Contact Us</a></li>
-<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="site-map/index.html" >Site Map</a></li>
+	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">More Information</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="?m=contact" >Contact Us</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="?m=site-map" >Site Map</a></li>
 </ul></div></aside><aside id="text-6" class="widget widget_text col-3">			<div class="textwidget"><p><br></p>
 <p style="text-align:center;font-weight: 200;"><img src="wp-content/uploads/2014/03/logo-BCI-aerospace.png" width="200" /> an abe division</p>
 <p style="text-align:center;font-weight: 200;font-size: 13px;">
