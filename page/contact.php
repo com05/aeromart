@@ -1,6 +1,6 @@
 	
 		<article id="post-39" class="post-39 page type-page status-publish hentry"	<header class="page-header">
-		<h1 class="page-title">Contact</h1>
+		<h1 class="page-title">연락처</h1>
 	</header><!-- .entry-header -->
 	<div class="entry-content">
 		<hr />

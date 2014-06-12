@@ -7,7 +7,7 @@
 		
 	<nav class="navbar navbar-default">		
 	<div class="container">
-		<div class="ext-links"><a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>  <a href="http://www.bciaerospace.com/korea/sign-up/">Sign Up online</a>  <a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a></div>
+		<div class="ext-links"><a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>  <a href="http://www.bciaerospace.com/korea/sign-up/">온라인 참가/전시 등록</a>  <!--<a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a>--></div>
 		<div class="row">
 			<div class="site-navigation-inner col-12">
 				<div class="navbar">
@@ -40,7 +40,7 @@
 	
 	<div class="sidebar col-12 col-lg-4">
 				<div class="sidebar-padder">
-						<aside id="metaslider_widget-4" class="widget widget_metaslider_widget"><h3 class="widget-title">Organized by:</h3><!-- meta slider -->
+						<aside id="metaslider_widget-4" class="widget widget_metaslider_widget"><h3 class="widget-title">주최</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-238 ml-slider nav-hidden nav-hidden">
     
     <div id="metaslider_container_238">
@@ -76,7 +76,7 @@
         timer_metaslider_238();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-5" class="widget widget_metaslider_widget"><h3 class="widget-title">Industrial Support:</h3><!-- meta slider -->
+<!--// meta slider--></aside><aside id="metaslider_widget-5" class="widget widget_metaslider_widget"><h3 class="widget-title">산업체 후원</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-326 ml-slider nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_326">
@@ -117,7 +117,7 @@
         timer_metaslider_326();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-6" class="widget widget_metaslider_widget"><h3 class="widget-title">Official Support:</h3><!-- meta slider -->
+<!--// meta slider--></aside><aside id="metaslider_widget-6" class="widget widget_metaslider_widget"><h3 class="widget-title">공식 후원</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-335 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_335">
@@ -152,7 +152,7 @@
         timer_metaslider_335();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-2" class="widget widget_metaslider_widget"><h3 class="widget-title">With Support from</h3><!-- meta slider -->
+<!--// meta slider--></aside><aside id="metaslider_widget-2" class="widget widget_metaslider_widget"><h3 class="widget-title">함께하는 기관/단체</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-6 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_6">
@@ -189,8 +189,8 @@
         timer_metaslider_6();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">Co-organized by:</h3>			<div class="textwidget"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)[경상남도 사천 엑스포 추친위원회] </div>
-		</aside><aside id="metaslider_widget-3" class="widget widget_metaslider_widget"><h3 class="widget-title">Don&rsquo;t miss our Aeromart Nagoya 2014</h3><!-- meta slider -->
+<!--// meta slider--></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">주관</h3>			<div class="textwidget"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)[경상남도 사천 엑스포 추친위원회] </div>
+		</aside><aside id="metaslider_widget-3" class="widget widget_metaslider_widget"><h3 class="widget-title">에어로마트 나고야 2014를 놓치지 마세요</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-237 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_237">
@@ -232,8 +232,9 @@
 </div><!-- close .main-content -->
 <div id="primery-footer">
 	<div class="container">
-	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">정보</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>
-<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="?m=contact" >Contact Us</a></li>
+	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">정보</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><!--<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>-->
+<!--<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="?m=contact" >연락처</a></li>-->
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://www.bciaerospace.com/korea/contact/" >연락처</a></li>
 <li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="?m=site-map" >사이트맵</a></li>
 </ul></div></aside><aside id="text-6" class="widget widget_text col-3">			<div class="textwidget"><p><br></p>
 <p style="text-align:center;font-weight: 200;"><img src="wp-content/uploads/2014/03/logo-BCI-aerospace.png" width="200" /> an abe division</p>

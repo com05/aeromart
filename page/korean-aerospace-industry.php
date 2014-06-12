@@ -1,6 +1,6 @@
 	
 		<article id="post-33" class="post-33 page type-page status-publish hentry"	<header class="page-header">
-		<h1 class="page-title">Korean Aerospace Industry</h1>
+		<h1 class="page-title">한국 항공우주 산업</h1>
 	</header><!-- .entry-header -->
 	<div class="entry-content">
 		<hr />

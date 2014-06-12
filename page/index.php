@@ -42,7 +42,7 @@
 <p><img src="wp-content/uploads/2014/02/Biz-Meeting-Sacheon-Expo_2013-2-300x199.jpg" alt="Biz Meeting Sacheon Expo_2013-2" width="300" height="199" class="alignleft size-medium wp-image-353" /></p>
 <p>이는 일부회사들이 항공시설을 방문하고, 지역사업체들과 지방 관료들간의 상호작용을 할 수 있게 하며, 동시에 지역사업 성공가능성에 대한 인식을 재고할 수 있는 좋은 기회가 될 것입니다. 이것은 한국 내 보급기지에 투자하거나 개발하려는 회사를 목표로 했습니다.</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><a class="btn btn-primary" href="http://bciaerospace.com/korea/sign-up/" >SIGN UP ONLINE</a></p>
+<p style="text-align: center;"><a class="btn btn-primary" href="?m=sign-up" >온라인 참가/전시 등록</a></p>
 				<div class="clear"></div>
 	</div><!-- .entry-content -->
 	</article><!-- #post-## -->

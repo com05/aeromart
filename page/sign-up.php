@@ -5,36 +5,36 @@
 		<hr />
 <div class="one-half">
 <p class="blue-circle">공급업자들과 제조업 파트너들을 만나고 싶으세요?</p>
-<h3>You’re involved in:</h3>
+<h3>당신이 아래항목에 해당하는 경우:</h3>
 <ul>
 <li>공급망,</li>
 <li>조달,</li>
 <li>구매,</li>
-<li>engineering,</li>
+<li>공학,</li>
 <li>제조,</li>
 <li>연구 및 개발,</li>
 <li>항공회사,</li>
-<li>OEM들,</li>
+<li>OEM (주문자 상표 부착 생산),</li>
 <li>MRO 서비스 제공기관,</li>
 <li>공급업자,</li>
 <li>임대차회사,</li>
 <li>이 서비스에 속한 항공당국과 규제기관.</li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_do_form.php?langue=en"  target="_blank">Online Visitor Registration</a></p>
-<p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Vistor form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','../wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf']);" target="_blank">Download the Visitor Registration form</a></p>
+<p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_do_form.php?langue=en"  target="_blank">온라인 참가자 등록</a></p>
+<p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Vistor form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','../wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf']);" target="_blank">참가자 등록 양식 다운로드</a></p>
 </div>
 <div class="second-half">
 <p class="green-circle">당신의 역랑, 상품, 서비스들을 판매하고 싶으세요?</p>
-<h3>You are involved in:</h3>
+<h3>당신이 아래항목에 해당하는 경우:</h3>
 <ul>
-<li>Sales,</li>
-<li>marketing business development,</li>
-<li>technical production.</li>
+<li>판매,</li>
+<li>마케팅 사업 개발,</li>
+<li>전문적 생산기술.</li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_po_form.php?langue=en"  target="_blank">Online Exhibitor Registration</a></p>
-<p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Exhibitor Form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_po_2014.pdf"  target="_blank">Download the Exhibitor Registration form</a></p>
+<p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_po_form.php?langue=en"  target="_blank">온라인 전시자 등록</a></p>
+<p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Exhibitor Form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_po_2014.pdf"  target="_blank">전시자 등록 양식 다운로드</a></p>
 </div>
 <div class="clr"></div>
 				<div class="clear"></div>
