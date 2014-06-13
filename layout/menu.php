@@ -30,14 +30,14 @@
 <div class="nav-collapse collapse navbar-responsive-collapse"><ul id="main-menu" class="nav navbar-nav">
 <li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home <?php if($_MN==57) { ?>active <?php } ?> menu-item-57"><a href="index.php" >Home</a></li>
 <li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==52) { ?>active <?php } ?> menu-item-52"><a href="?m=sign-up" >참가/전시 등록</a></li>
-<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==53) { ?>active <?php } ?> menu-item-53"><a href="?m=sponsorship" >후원 안내</a></li>
-<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==67) { ?>active <?php } ?> menu-item-has-children menu-item-49 dropdown"><a href="?m=event-format-program"  data-toggle="dropdown" data-target="#" class="dropdown-toggle">행사 프로그램<span class="caret"></span></a>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==53) { ?>active <?php } ?> menu-item-53"><a href="?m=sponsorship" >스폰서 (후원) 계약</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==67) { ?>active <?php } ?> menu-item-has-children menu-item-49 dropdown"><a href="?m=event-format-program"  data-toggle="dropdown" data-target="#" class="dropdown-toggle">행사형식 및 프로그램<span class="caret"></span></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==67) { ?>active <?php } ?> menu-item-67"><a href="?m=event-format-program" >행사 프로그램</a></li>
-	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==50) { ?>active <?php } ?> menu-item-50"><a href="?m=event-format-program/concept" >Concept</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==67) { ?>active <?php } ?> menu-item-67"><a href="?m=event-format-program" >행사형식 및 프로그램</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==50) { ?>active <?php } ?> menu-item-50"><a href="?m=event-format-program/concept" >행사 특성</a></li>
 </ul>
 </li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==51) { ?>active <?php } ?> menu-item-51"><a href="?m=korean-aerospace-industry" >한국 항공우주 산업</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==51) { ?>active <?php } ?> menu-item-51"><a href="?m=korean-aerospace-industry" >한국 항공우주산업 개요</a></li>
 <li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==370) { ?>active <?php } ?> menu-item-370"><a href="?m=partners" >파트너</a></li>
 <li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($_MN==89) { ?>active <?php } ?> menu-item-89"><a href="http://www.bciaerospace.com/korea/participants-list/" target="_blank" >참관등록</a></li>
 <!--

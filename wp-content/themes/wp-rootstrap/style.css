@@ -50,6 +50,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @import url(http://fonts.googleapis.com/css?family=Archivo+Narrow:400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Michroma);
 /* My Minimal WordPress Styling comes here */
+
 body.admin-bar .navbar-fixed-top {
 	top: 28px;
 }
@@ -68,10 +69,13 @@ html body .green-circle,
 html body .btn,
 html body .ext-links,
 html body .menu-item {
-    font-family: 'Nanum Gothic' !important;
+    font-family: 'Nanum Gothic' !IMPORTANT;
 }
 html body h3 {
     font-size: 18px;
+    font-weight: 600;
+}
+html body h2 {
     font-weight: 600;
 }
 html body,

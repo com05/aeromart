@@ -7,7 +7,10 @@
 		
 	<nav class="navbar navbar-default">		
 	<div class="container">
-		<div class="ext-links"><a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>  <a href="http://www.bciaerospace.com/korea/sign-up/">온라인 참가/전시 등록</a>  <!--<a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a>--></div>
+		<div class="ext-links">
+		<a href="http://www.bciaerospace.com/korea" target="_blank"><img src="http://www.bciaerospace.com/nagoya/media/mod_languages/images/en.gif"> Global</a>
+		<a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>
+		<a href="http://www.bciaerospace.com/korea/sign-up/">온라인 참가/전시 등록</a>  <!--<a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a>--></div>
 		<div class="row">
 			<div class="site-navigation-inner col-12">
 				<div class="navbar">
@@ -189,7 +192,7 @@
         timer_metaslider_6();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">주관</h3>			<div class="textwidget"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)[경상남도 사천 엑스포 추친위원회] </div>
+<!--// meta slider--></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">주관</h3>			<div class="textwidget" style="letter-spacing: -1px;text-align: center;"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)<br />[경상남도 사천 엑스포 추친위원회] </div>
 		</aside><aside id="metaslider_widget-3" class="widget widget_metaslider_widget"><h3 class="widget-title">에어로마트 나고야 2014를 놓치지 마세요</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-237 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden">
     

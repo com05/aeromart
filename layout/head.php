@@ -22,11 +22,11 @@
 <link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux" href="http://www.bciaerospace.com/korea/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Aeromart Korea 2014 &raquo; Flux des commentaires" href="http://www.bciaerospace.com/korea/comments/feed/" />
 -->
-<!--
+
             <script type="text/javascript">//<![CDATA[
             // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-12709362-18']);
+            _gaq.push(['_setAccount', 'UA-51871387-1']);
 				            _gaq.push(['_trackPageview']);
             (function () {
                 var ga = document.createElement('script');
@@ -37,7 +37,17 @@
                 s.parentNode.insertBefore(ga, s);
             })();
             //]]></script>
--->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51871387-1', 'aeromartkorea-sacheon2014.kr');
+  ga('send', 'pageview');
+
+</script>
+
 <link rel='stylesheet' id='visual-form-builder-css-css'  href='wp-content/plugins/visual-form-builder/css/visual-form-builder.min.css?ver=20131203' type='text/css' media='all' />
 <link rel='stylesheet' id='vfb-jqueryui-css-css'  href='wp-content/plugins/visual-form-builder/css/smoothness/jquery-ui-1.10.3.min.css?ver=20131203' type='text/css' media='all' />
 			<link rel='stylesheet' id='rootstrap-style-css'  href='wp-content/themes/wp-rootstrap/style.css?ver=3.8.3.css' type='text/css' media='all' />

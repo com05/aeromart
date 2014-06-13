@@ -6,15 +6,15 @@
 		<hr />
 <h3>찾아오시는길</h3>
 <p>&nbsp;<br />
-<a class="btn btn-primary" href="#">자세히 보기</a> (준비중입니다.)</p>
+<a class="btn btn-primary" href="#">자세히 보기</a> (추후 공개 예정)</p>
 <hr />
 <h3>행사장 안내도</h3>
 <p>&nbsp;<br />
-<a class="btn btn-primary" href="#">안내도 보기</a> (준비중입니다.)</p>
+<a class="btn btn-primary" href="#">안내도 보기</a> (추후 공개 예정)</p>
 <hr />
 <h3>정보 파일</h3>
 <p>&nbsp;<br />
-<a class="btn btn-primary" href="#">다운로드</a> (준비중입니다.)</p>
+<a class="btn btn-primary" href="#">다운로드</a> (추후 공개 예정)</p>
 				<div class="clear"></div>
 	</div><!-- .entry-content -->
 	</article><!-- #post-## -->
