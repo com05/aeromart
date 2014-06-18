@@ -8,7 +8,7 @@
 	<nav class="navbar navbar-default">		
 	<div class="container">
 		<div class="ext-links">
-		<a href="http://www.bciaerospace.com/korea" target="_blank"><img src="http://www.bciaerospace.com/nagoya/media/mod_languages/images/en.gif"> Global</a>
+		<a href="http://www.bciaerospace.com/korea" target="_blank"><img src="http://www.bciaerospace.com/nagoya/media/mod_languages/images/en.gif"> English</a>
 		<a href="http://www.bciaerospace.com/index.php?lang=en" target="_blank">BCI Aerospace</a>
 		<a href="http://www.bciaerospace.com/korea/sign-up/">온라인 참가/전시 등록</a>  <!--<a href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/membre.php" target="_blank">Member Area</a>--></div>
 		<div class="row">
@@ -22,7 +22,7 @@
 </nav><!-- .site-navigation -->
 	
 	
-<header id="masthead" class="site-header" role="banner">
+<div id="masthead" class="site-header" role="banner">
 	<div class="container">
 		<!--h1>???Learning Expedition For Aerospace & Defense Industries</h1-->
 		<img src="wp-content/uploads/2014/03/slogan.jpg">
@@ -33,7 +33,7 @@
 									<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.bciaerospace.com/korea/&title=AerospaceMeetingsHanoi2014&summary=&source=" class="linkedin" target="_blank">linkedin</a>
 											</div>
 		</div>
-</header><!-- #masthead -->
+</div><!-- #masthead -->
 <div class="main-content">	
 	<div class="container" id="content">
 		<div class="row">
@@ -43,7 +43,7 @@
 	
 	<div class="sidebar col-12 col-lg-4">
 				<div class="sidebar-padder">
-						<aside id="metaslider_widget-4" class="widget widget_metaslider_widget"><h3 class="widget-title">주최</h3><!-- meta slider -->
+						<div id="metaslider_widget-4" class="widget widget_metaslider_widget"><h3 class="widget-title">주최</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-238 ml-slider nav-hidden nav-hidden">
     
     <div id="metaslider_container_238">
@@ -79,7 +79,7 @@
         timer_metaslider_238();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-5" class="widget widget_metaslider_widget"><h3 class="widget-title">산업체 후원</h3><!-- meta slider -->
+<!--// meta slider--></div><div id="metaslider_widget-5" class="widget widget_metaslider_widget"><h3 class="widget-title">산업체 후원</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-326 ml-slider nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_326">
@@ -120,7 +120,7 @@
         timer_metaslider_326();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-6" class="widget widget_metaslider_widget"><h3 class="widget-title">공식 후원</h3><!-- meta slider -->
+<!--// meta slider--></div><div id="metaslider_widget-6" class="widget widget_metaslider_widget"><h3 class="widget-title">공식 후원</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-335 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_335">
@@ -155,7 +155,7 @@
         timer_metaslider_335();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="metaslider_widget-2" class="widget widget_metaslider_widget"><h3 class="widget-title">함께하는 기관/단체</h3><!-- meta slider -->
+<!--// meta slider--></div><div id="metaslider_widget-2" class="widget widget_metaslider_widget"><h3 class="widget-title">함께하는 기관/단체</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-6 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_6">
@@ -192,8 +192,8 @@
         timer_metaslider_6();
     </script>
 </div>
-<!--// meta slider--></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">주관</h3>			<div class="textwidget" style="letter-spacing: -1px;text-align: center;"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)<br />[경상남도 사천 엑스포 추친위원회] </div>
-		</aside><aside id="metaslider_widget-3" class="widget widget_metaslider_widget"><h3 class="widget-title">에어로마트 나고야 2014를 놓치지 마세요</h3><!-- meta slider -->
+<!--// meta slider--></div><div id="text-7" class="widget widget_text"><h3 class="widget-title">주관</h3>			<div class="textwidget" style="letter-spacing: -1px;text-align: center;"><br />GSAEC (Gyeongnam Sacheon Aerospace Expo Committee)<br />[경상남도 사천 엑스포 추친위원회] </div>
+		</div><div id="metaslider_widget-3" class="widget widget_metaslider_widget"><h3 class="widget-title">에어로마트 나고야 2014를<br />놓치지 마세요</h3><!-- meta slider -->
 <div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-flex metaslider-237 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden nav-hidden">
     
     <div id="metaslider_container_237">
@@ -227,7 +227,7 @@
         timer_metaslider_237();
     </script>
 </div>
-<!--// meta slider--></aside>			
+<!--// meta slider--></div>			
 		</div><!-- close .sidebar-padder -->
 			</div><!-- close .*-inner (main-content or sidebar, depending if sidebar is used) -->
 		</div><!-- close .row -->
@@ -235,11 +235,11 @@
 </div><!-- close .main-content -->
 <div id="primery-footer">
 	<div class="container">
-	<aside id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">정보</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><!--<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>-->
+	<div id="nav_menu-2" class="widget widget_nav_menu col-3"><h3 class="widget-title">정보</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><!--<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="?m=legals" >Legals</a></li>-->
 <!--<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="?m=contact" >연락처</a></li>-->
 <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://www.bciaerospace.com/korea/contact/" >연락처</a></li>
 <li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="?m=site-map" >사이트맵</a></li>
-</ul></div></aside><aside id="text-6" class="widget widget_text col-3">			<div class="textwidget"><p><br></p>
+</ul></div></div><div id="text-6" class="widget widget_text col-abs col-3">			<div class="textwidget"><p><br></p>
 <p style="text-align:center;font-weight: 200;"><img src="wp-content/uploads/2014/03/logo-BCI-aerospace.png" width="200" /> an abe division</p>
 <p style="text-align:center;font-weight: 200;font-size: 13px;">
 General Organization AEROMART Korea<br />
@@ -247,13 +247,13 @@ General Organization AEROMART Korea<br />
 Tel : +33 1 41 86 49 18 - Fax : +33 1 46 03 86 26 - Email : <a href="mailto:adm-korea @advbe.com" target="_blank">adm-korea @advbe.com</a><br />
 abe – SAS capital 50 000 € - 515 013 506 00024 – NAF 8230 Z</p>
 </div>
-		</aside><aside id="search-2" class="widget widget_search col-3"><h3 class="widget-title">BCI Aerospace 검색:</h3><form role="search" method="get" class="search-form" action="http://www.bciaerospace.com/korea/">
+		</div><div id="search-2" class="widget widget_search col-3"><h3 class="widget-title">BCI Aerospace 검색:</h3><form role="search" method="get" class="search-form" action="http://www.bciaerospace.com/korea/">
 	<label>
 		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
 	</label>
 	<input type="submit" class="search-submit" value="Search">
 </form>
-</aside>	</div>
+</div>	</div>
 </div>
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="container">
@@ -273,5 +273,8 @@ abe – SAS capital 50 000 € - 515 013 506 00024 – NAF 8230 Z</p>
 <script type='text/javascript' src='wp-content/themes/wp-rootstrap/includes/js/skip-link-focus-fix.js?ver=20130115.javascript'></script>
 <script type='text/javascript' src='wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js?ver=2.7.1.javascript'></script>
 <script type='text/javascript' src='wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=2.7.1.javascript'></script>
+ <!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
 </body>
 </html>

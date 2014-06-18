@@ -22,6 +22,7 @@
 </ul>
 <p>&nbsp;</p>
 <p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_do_form.php?langue=en"  target="_blank">온라인 참가자 등록</a></p>
+<p style="text-align:CENTER"><i>* 참가등록 양식은 영문으로만 제공됩니다</i></p>
 <p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Vistor form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','../wp-content/uploads/2014/04/aeromart_korea_sacheon_do_2014.pdf']);" target="_blank">참가자 등록 양식 다운로드</a></p>
 </div>
 <div class="second-half">
@@ -34,6 +35,7 @@
 </ul>
 <p>&nbsp;</p>
 <p style="text-align: center;"><a class="btn btn-primary" href="http://www.bciaerospace.com/aeromart_korea/rendezvous2014/php/inscription_po_form.php?langue=en"  target="_blank">온라인 전시자 등록</a></p>
+<p style="text-align:CENTER"><i>* 참가등록 양식은 영문으로만 제공됩니다</i></p>
 <p style="text-align: center;"><a title="Aeromart Korea Sacheon 2014 Exhibitor Form " href="wp-content/uploads/2014/04/aeromart_korea_sacheon_po_2014.pdf"  target="_blank">전시자 등록 양식 다운로드</a></p>
 </div>
 <div class="clr"></div>
